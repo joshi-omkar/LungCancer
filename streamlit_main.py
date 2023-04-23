@@ -1,5 +1,5 @@
 import streamlit as st
-from utility import utils, cnn_model
+from utility import utils
 
 IMAGE_SIZE_UI = (200, 200)
 IMAGE_SIZE_PREPROCESS = 64
