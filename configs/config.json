@@ -1,0 +1,15 @@
+{
+  "bengin_case": {
+    "resources": []
+  },
+  "malignant_case": {
+    "resources": []
+  },
+  "normal_case": {
+    "resources": []
+  },
+  "train_dataset_path": "E:\\BE Project\\Lungs  Cancer\\lung cancer\\dataset\\training_set",
+  "test_dataset_path": "E:\\BE Project\\Lungs  Cancer\\lung cancer\\dataset\\test_set",
+  "assets_path": "E:\\BE Project\\Lungs  Cancer\\lung cancer\\Assets\\results",
+  "model_path": "E:\\BE Project\\Lungs  Cancer\\lung cancer\\Assets\\models\\lung_model.h5"
+}
